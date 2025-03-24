@@ -1,4 +1,4 @@
-# SCS-Assignment-1
+# Hardening_Windows_FileServer
 Hardening and securing a Windows File Server
 
 # Tasks
