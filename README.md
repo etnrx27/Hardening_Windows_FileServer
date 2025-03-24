@@ -1,6 +1,23 @@
 # SCS-Assignment-1
-Final Assignment to harden the windows operating system for 'Server &amp; Cloud Security' Module Taken in NP Semester 4.
-# What is Required
-Using Windows Server Manager and other features of Windows, harden a Windows 10 Operating System to make it more secure from attacks. Please refer to the document, "SCS Assignment - Oct 2021', to find more information about the assignment. 
-# My Duties
-I implemented several features on a windows 10 operating system and can be seen in both parts of the report. The report had to be split up due to the size being too large.
+Hardening and securing a Windows File Server
+
+# Tasks
+1) Setup a file server
+2) Securing file server
+   1) Quota Limit
+   2) File Screens
+   3) AntiVirus
+   4) Host Firewall
+   5) HIDS/HIPS
+   6) Encryption
+   7) Access Control List
+   8) Backups
+   9) Account Lockout
+   10) Logging
+   11) OS Patching
+   12) Changing Default User Account Names and Password
+
+# Materials
+The report and documentation had to be split up due to the size of the report being too large
+1) Harderning_Windows_FileServer_Part1.docx
+2) Harderning_Windows_FileServer_Part2.docx
